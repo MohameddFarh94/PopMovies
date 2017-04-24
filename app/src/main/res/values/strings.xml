@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">PopMovies</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="API_KEY">74ce489531f6910fb009bda135eaba19</string>
+    <string name="action_sort">Sort</string>
+    <string name="action_pop">Popularity</string>
+    <string name="action_top">Top Rated</string>
+    <string name="action_fav">Favorites</string>
+    <string name="go_top">Slide to top</string>
+    <string name="time_out">Internet is slow</string>
+    <string name="server_error">Server Error</string>
+    <string name="network_error">Network Error</string>
+    <string name="no_connection">No Connection</string>
+    <string name="overView">OverView</string>
+    <string name="trailers">Trailers</string>
+    <string name="no_trailers">No Trailers Found</string>
+    <string name="reviews">Reviews</string>
+    <string name="no_reviews">No Reviews</string>
+    <string name="share">Share</string>
+    <string name="choose_mov">Please choose a movie.</string>
+</resources>
